@@ -18,7 +18,7 @@
 
 <body class="font-sans text-gray-900 text-sm">
     <header class="flex items-center justify-between px-8 py-4">
-        <a href="#">HQ Logo</a>
+        <a href="#"><img src="{{ asset('img/logo.svg')}}" alt="logo"></a>
         <div class="flex items-center">
             @if (Route::has('login'))
             <div class="p-6 text-right">
