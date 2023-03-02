@@ -17,6 +17,12 @@ module.exports = {
                 // white: colors.white,
                 // gray: colors.trueGray,
                 "gray-background": "#f7f8fc",
+                blue: "#328af1",
+                "blue-hover": "#2879bd",
+                yellow: "#ffc73c",
+                red: "#ec454f",
+                green: "#1aab8b",
+                purple: "#8b60ed",
             },
             spacing: {
                 70: "17.5rem",
