@@ -51,30 +51,47 @@
     </header>
     <main class="container mx-auto max-w-custom flex">
         <div class="w-70 mr-5">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni ullam corrupti sed cupiditate ipsa? Sapiente
-            ad doloremque molestias, id, ab temporibus ipsum fugit ratione dicta aperiam impedit doloribus repellat
-            dignissimos alias, vero hic voluptates. Modi, saepe eius quisquam repellendus molestiae fugit iusto dolorum
-            quo eum magnam ad illum repellat labore ducimus suscipit voluptate veritatis fuga animi commodi placeat
-            minima. Consequuntur velit fuga suscipit nesciunt consequatur id facere quod, cumque similique harum sint
-            hic quis debitis? Suscipit quas amet dolorum maxime. Accusamus culpa veniam quae vel placeat minima laborum
-            blanditiis aspernatur voluptatem doloremque, laboriosam nemo aut iste minus possimus deserunt quidem.
+            Add idea form goes here. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Neque repudiandae itaque
+            illo rerum repellendus eos amet error sint natus odio. Culpa quibusdam vitae labore in eos natus,
+            perspiciatis repellendus consectetur repellat tempore, eum maiores. Perspiciatis sunt omnis ratione aut
+            possimus.
         </div>
         <div class="w-175">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptates nemo minus voluptate enim aspernatur
-            ducimus ipsum esse possimus corrupti libero odio neque, nesciunt ab numquam earum, distinctio ex incidunt
-            hic placeat ipsam quo. Nulla optio dolorem assumenda accusantium reprehenderit, deserunt ad dolorum et
-            aperiam eligendi quis voluptatum similique adipisci sequi nobis sit, corporis vero! Error in modi quod
-            ducimus magnam? Quod qui et nisi sed, doloremque architecto quidem vero tempore voluptatem quis, voluptates
-            nulla laboriosam iste facere ea? Iste, expedita minus, fugit voluptates quasi beatae debitis ea totam ipsa
-            neque velit modi provident recusandae sunt ad eum dolorum tenetur in reiciendis? Numquam unde qui architecto
-            ex! At odit vero illo quo, harum libero architecto! Totam quasi deleniti error, reprehenderit consequatur
-            ducimus accusantium maiores corrupti reiciendis! Eveniet culpa totam facere. Cum architecto commodi,
-            accusamus adipisci dignissimos, nostrum veritatis laudantium cupiditate, laboriosam esse dolorem! Incidunt,
-            eum perspiciatis. Quae asperiores assumenda dolor aspernatur quaerat, accusantium libero cumque officia
-            inventore itaque numquam pariatur, aliquid unde eveniet quisquam facere est veritatis cupiditate incidunt
-            perspiciatis officiis suscipit atque odio? Eos in recusandae voluptates officia, fugiat alias consequatur
-            molestias porro omnis sed, maxime sit iure voluptatem at itaque pariatur. Tempora aperiam repellendus eius
-            voluptatibus non aliquid eveniet?
+            <nav class="flex items-center justify-between text-xs">
+                <ul class="flex uppercase font-semibold space-x-10 border-b-4 pb-3">
+                    <li>
+                        <a href="#" class="border-b-4 pb-3 border-blue">
+                            All Ideas (87)
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#"
+                            class="test-gray-400 transition duration-150 ease-in border-b-4 pb-3 hover:border-blue">
+                            Considering (6)
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#"
+                            class="test-gray-400 transition duration-150 ease-in border-b-4 pb-3 hover:border-blue">
+                            In Progress (1)
+                        </a>
+                    </li>
+                </ul>
+                <ul class="flex uppercase font-semibold border-b-4 pb-3 space-x-10">
+                    <li>
+                        <a href="#"
+                            class="test-gray-400 transition duration-150 ease-in border-b-4 pb-3 hover:border-blue">
+                            Implemented (10)
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#"
+                            class="test-gray-400 transition duration-150 ease-in border-b-4 pb-3 hover:border-blue">
+                            Closed (55)
+                        </a>
+                    </li>
+                </ul>
+            </nav>
         </div>
     </main>
 </body>
